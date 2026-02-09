@@ -3,5 +3,5 @@
   "version_name": "1.2",
   "update_url": "https:\/\/github.com\/SK-VIP-CONFIG\/sk-vip-gfx\/releases\/download\/Skvipgfx\/Skvipgfx_1.4.apk",
   "changelog": "hrlo",
-  "force_update": true
+  "force_update": false
 }
